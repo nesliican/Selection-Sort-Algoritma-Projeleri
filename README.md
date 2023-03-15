@@ -11,3 +11,6 @@ patika.dev algoritma projeleri
 4.aşama: [2,6,16,18,22,27] 18 ile 4. eleman yani 22 ile yerlerini değiştiririz. 
 
 Big-O gösterimi: O(n^2)
+
+
+patika.dev linkim: https://app.patika.dev/nesliihan
